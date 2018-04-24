@@ -1,4 +1,4 @@
-package nl.maastro.nlp.snomedumlslookup.snomedumlslookup;
+package nl.maastro.nlp.umlssnomedcttranslate;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
