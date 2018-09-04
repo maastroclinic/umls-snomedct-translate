@@ -8,3 +8,6 @@ spring:
     driverClassName: org.h2.Driver
   jpa:
     hibernate.ddl-auto: create-drop
+
+
+umls.mrconso.headers: ['cui', 'lat', 'ts', 'lui', 'stt', 'sui', 'ispref', 'aui', 'saui', 'scui', 'sdui', 'sab', 'tty', 'code', 'str', 'srl', 'suppress', 'cvf']
